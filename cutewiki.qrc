@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>internet.png</file>
+        <file>progress.png</file>
+        <file>CustomInput.qml</file>
+        <file>KBDelegate.qml</file>
+        <file>clear.png</file>
+        <file>exit.png</file>
+        <file>zoomin.png</file>
+        <file>zoomout.png</file>
+        <file>ui.qml</file>
+        <file>home.png</file>
+        <file>HMDelegate.qml</file>
+        <file>options.qml</file>
+        <file>favorites.png</file>
+        <file>trash.png</file>
+        <file>history.png</file>
+        <file>showmoreoptions.png</file>
+        <file>cutewikisettings.png</file>
+        <file>back.png</file>
+        <file>addfavorites.png</file>
+        <file>email.png</file>
+        <file>imageloadoff.png</file>
+        <file>imageloadon.png</file>
+    </qresource>
+</RCC>
